@@ -63,7 +63,6 @@ The results demonstrated that:
 ## Future Work
 - Explore advanced data augmentation techniques to address class imbalance.
 - Implement neural network models for better feature extraction and performance.
-- 
 ---
 
 ## References
